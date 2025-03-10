@@ -54,7 +54,6 @@ print("\nPredictions: \n", Y_pred[:5])
 
 ## Output:
 
-[image](https://github.com/user-attachments/assets/506e6424-dba3-41a6-8979-7c6139e8beb7)
 
 
 ##Result:
