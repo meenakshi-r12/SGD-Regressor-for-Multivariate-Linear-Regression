@@ -55,7 +55,7 @@ print("\nPredictions: \n", Y_pred[:5])
 ## Output:
 
 
-![WhatsApp Image 2025-03-10 at 16 02 33_6c24c118](https://github.com/user-attachments/assets/dab4b7cb-dd99-43aa-97d6-c403c2fd00c9)
+![WhatsApp Image 2025-03-10 at 16 02 33_489f0a8b](https://github.com/user-attachments/assets/c0ebe042-624c-4ea6-82c7-1c48c0eb4a88)
 
 
 ##Result:
