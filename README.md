@@ -53,7 +53,6 @@ print("Mean Squared Error:",mse)
 print("\nPredictions: \n", Y_pred[:5])
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
 
 ![image](https://github.com/user-attachments/assets/581f489a-0185-4230-8872-6f493ef3cff9)
 
